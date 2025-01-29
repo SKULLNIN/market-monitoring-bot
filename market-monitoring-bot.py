@@ -10,7 +10,7 @@ import pytz
 
 # AlgoTest API details
 API_URL = "https://algotest.in/api/webhook/custom/execution/start/6799d59c299cc899758a5451"
-ACCESS_TOKEN = "uyR9l9rU3qExV5coGgutq7JK2zCrs6Fl"
+ACCESS_TOKEN = "your json token"
 ALERT_NAME = "test"
 
 
