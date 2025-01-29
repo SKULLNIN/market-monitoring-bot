@@ -9,8 +9,8 @@ from datetime import timedelta
 import pytz
 
 # AlgoTest API details
-API_URL = "https://algotest.in/api/webhook/custom/execution/start/6799d59c299cc899758a5451"
-ACCESS_TOKEN = "your json token"
+API_URL = "Your Algo test url"
+ACCESS_TOKEN = "Your json token"
 ALERT_NAME = "test"
 
 
