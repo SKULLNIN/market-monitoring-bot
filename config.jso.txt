@@ -1,0 +1,13 @@
+{
+  "ticker": "^NSEI",
+  "interval": "5m",
+  "start_time": "09:15",
+  "end_time": "15:15",
+  "ema_period": 21,
+  "api_url": "https://algotest.in/api/webhook/custom/execution/start/6799c10a54369621904c3b03",
+  "access_token": "your-access-token",
+  "alert_name": "test_na"
+}
+
+#### Buy your own access_token via algo-test.
+#### Whenever executing u should change the alert_name cause it should be same from the algo test alert name.
